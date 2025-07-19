@@ -1,4 +1,7 @@
 # Blinkit-Data-Analysis
+<img width="876" height="496" alt="image" src="https://github.com/user-attachments/assets/5ab70209-a06a-45ad-8d0f-451f231f6bd9" />
+
+
 This is a Power BI project I worked on where I analyzed Blinkit's data. Blinkit is a quick-commerce app that delivers groceries, and I thought it would be fun to break down how things work behind the scenes using data.
 I used sample data and created a full dashboard to understand things like which products are in demand, when people order the most, and how the sales are trending.
 
